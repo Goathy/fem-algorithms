@@ -1,0 +1,18 @@
+{
+  "name": "fem-algorithms",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Goathy/fem-algorithms.git"
+  },
+  "author": "Jakub Gałecki <goathy.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goathy/fem-algorithms/issues"
+  },
+  "homepage": "https://github.com/Goathy/fem-algorithms#readme"
+}
